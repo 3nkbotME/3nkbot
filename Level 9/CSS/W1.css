@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    border: solid;
+    height: 50px;
+    background-color: rgb(13, 217, 224);
+}
+.flex div{
+    background-color:white ;
+    justify-content: space-around
+    
+
+}

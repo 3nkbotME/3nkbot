@@ -1,0 +1,29 @@
+.pages{
+
+    background-color: gold;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.home{
+    padding: 10px;
+    background-color: black;
+    border: solid;
+}
+.email{
+    padding: 10px;
+    background-color: darkgoldenrod;
+    border: solid;
+    
+    }
+
+    
+hr{
+    border-width: 5px;
+    border-color: chartreuse;
+}
+li{
+    padding: 10px;;
+    border: solid;
+    background-color: blueviolet;
+}
